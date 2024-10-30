@@ -1,0 +1,27 @@
+package com.example.demo;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class PrincipalController2 {
+
+
+	@GetMapping("/")
+	public String Index() {
+		return "index";
+	}
+	@GetMapping("/Compras")
+	public String Compras() {
+		return "Compras";
+	}
+	@GetMapping("/Vendas")
+	public String Vendas() {
+		return "Vendas";
+	}
+	@GetMapping("/")
+	public String Estoque() {
+		return "Estoque";
+	}
+}
+

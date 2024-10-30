@@ -1,0 +1,98 @@
+<h1> hello mother</h1>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+ 
+<head>
+    <title>JGT STORE</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Blog-Dev - Um blog para desenvolvedores com as últimas novidades e produtos exclusivos para o público tech.">
+    <meta name="keywords" content="blog, desenvolvedores, produtos, novidades, tecnologia">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:400,700" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="Style.css">
+</head>
+ 
+<body>  
+    <section class="superinfo-bg">
+        <section class="superinfo">
+            <p><b>ABERTO:</b> / Sex 08:00 às 18:00  </p>
+            <a href="tel:+5515996026913"><b>TELEFONE:</b> +55 15 99602-6913 </a>
+            <p><b>ENDEREÇO:</b> Av. Neo Química Arena, 1910, Corinthans SP  </p>
+        </section>
+    </section>
+
+    <header class="menu-bg">
+        <section class="menu">
+            <section class="menu-logo">
+                <a href="index.html">JGT-STORE</a>
+            </section>
+            <nav class="menu-nav">
+                <ul>
+                    <li><a href="login.html">Login</a></li>
+                    <li><a href="cadastro.html">Cadastro</a></li>
+                    <li><a href="faq.html">Ajuda</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                </ul>
+            </nav>
+        </section>
+    </header>
+    <h1 class="introducao">Java Genius Tech Store</h1>
+        <section class="produtos-container">
+            <picture class="produtos-item purple">
+                <h2>Smart TV 4K</h2>
+                <a href="tv.html"><img src="img/tv.jpg" alt="Produtos 1"></a>
+            </picture>
+
+            <picture class="produtos-item pink">
+                <h2>Fone Bluetooth</h2>
+                <a href="fone.html"><img src="img/fone.jpg" alt="Produtos 2"></a>
+            </picture>
+
+            <picture class="produtos-item blue">
+                <h2>Tablet</h2>
+                <a href="tablet.html"><img src="img/tablet.jpg" alt="Produtos 3"></a>
+            </picture>
+
+            <picture class="produtos-item pink">
+                 <h2>Celular</h2>
+                <a href="celular.html"><img src="img/cellphone.jpg" width="360" height="135" alt="Produtos 4"></a>
+            </picture>
+
+            <picture class="produtos-item pink">
+                <h2>Smart Watch</h2>
+                <a href="smartwatch.html"><img src="img/relrel.jpg"  alt="Produtos 5"></a>
+            </picture>
+
+            <picture class="produtos-item blue">
+                <h2>PC Gamer</h2>
+                <a href="pc.html"><img src="img/pc_gamer.jpg" width="360" height="135"alt="Produtos 6"></a>
+            </picture>
+
+        </section>
+    </section>
+    </section>
+   
+    <section class="sobre" id="sobre">
+       
+    </section>
+
+    <footer class="footer">
+        <section class="produtos" id="produtos">
+        <section class="menu">
+            <section class="menu-logo">
+            <a href="index.html">JGT-STORE</a>
+            </section>
+            <nav class="menu-nav">
+                <ul>
+                    <li><a href="sobre.html">Sobre</a></li>
+                    <li><a href="produtos.html">Produtos</a></li>
+                    <li><a href="qualidade.html">Qualidade</a></li>
+                    <li><a href="cadastro.html">Cadastro</a></li>
+                </ul>
+            </nav>
+        </section>
+    </footer>
+</body>
+ 
+</html>

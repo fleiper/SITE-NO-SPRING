@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\fell\Documents\WorkSpring- fell\.metadata\.plugins\org.eclipse.jdt.core
+2652627965.index
+337897651.index
+1070465406.index
+1865797976.index

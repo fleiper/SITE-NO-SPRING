@@ -1,0 +1,26 @@
+package com.example.demo;
+
+import org.springframework.web.bind.annotation.GetMapping;
+
+
+
+
+@PrincipalController2
+public class PrincipalController2 {
+	
+	
+		
+		@GetMapping("/Compras")
+		public String Compras() {
+			return "Compras";
+		}
+		@GetMapping("/Vendas")
+		public String Vendas() {
+			return "Vendas";
+		}
+		@GetMapping("/")
+		public String Estoque() {
+			return "Estoque";
+	}
+	}
+
